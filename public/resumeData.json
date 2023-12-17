@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "NATRAJ COMPUTERS",
+    "description": "Expert Computer Repair Tips",
+    "description_1": "Don't Let Computer Problems Slow You Down: Trust Our Repair Experts",
+    "image": "pcphoto.bmp",
+    "bio": " Natraj Computers is one of the leading computer, cctv sales and repair companies in the Lucknow, Utter pradesh providing services for individuals and businesses. No matter what kind of a PC you have, we can fix it.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Deepakrai767622@gmail.com",
+    "phone": "9984576565",
+    "github": "https://github.com/Deepakrai767622",
+    "project": "https://google.com/",
+    "address": {
+      "street": "(Ashiana)",
+      "city": "(Lucknow)",
+      "state": "(Utter pradesh)",
+      "zip": "(226012)"
+    },
+    "website": "http://www.google.com",
+    "resumedownload": "http://google.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "..",
+    "education": [
+      {
+        "school": "Values",
+        "degree": "Trust us and we will provide the highest quality",
+        "graduated": "Start from jan 2022",
+        "description": "Our team of highly skilled and experienced technicians is dedicated to providing the best possible solutions for all of your computer repair needs."
+      },
+      {
+        "school": "Let’s Talk About Your Problem",
+        "degree": "Our goal is to provide you with exceptional customer service and high-quality repairs that exceed your expectations.",
+        "graduated": ".",
+        "description": "At our computer repair company, we are passionate about providing reliable and effective solutions to all of your technology needs. With years of experience, our team of skilled technicians and IT professionals are dedicated to delivering fast, friendly, and affordable service for all of your computer repair needs."
+      }
+    ],
+    "work": [
+      {
+        "company": "Natraj Computers",
+        "title": "Senior I.T. Technical Manager",
+        "years": "March 2018 - Present",
+        "description": "We believe that human-centered design are revolutionizing brand experiences."
+      },
+      {
+        "company": "Archesoftronics",
+        "title": "Reduce capital and operating costs, while modernizing IT.",
+        "years": "March 2017 - February 2018",
+        "description": "."
+      }
+    ],
+    "skills": [
+      {
+        "name": "OS Installation",
+        "level": "100%"
+      },
+      {
+        "name": "Macbook Repair",
+        "level": "95%"
+      },
+      {
+        "name": "Windows Repair",
+        "level": "90%"
+      },
+      {
+        "name": "Driver Installation",
+        "level": "90%"
+      },
+      {
+        "name": "Gaming PC Build",
+        "level": "80%"
+      },
+      {
+        "name": "Networking Installation",
+        "level": "90%"
+      },
+      {
+        "name": "CCTV Installation",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "pic1.bmp",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "pic2.bmp",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "pic4.bmp",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  }
+}
