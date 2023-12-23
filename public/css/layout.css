@@ -483,6 +483,11 @@ ul#nav li.current a {
   cursor: pointer;
 }
 
+.portfolio-item .item-wrap-inner {
+  display: block;
+  padding: 2rem;
+}
+
 /* overlay */
 .portfolio-item .item-wrap .overlay {
   position: absolute;
@@ -527,7 +532,7 @@ ul#nav li.current a {
   margin-top: -15px;
 }
 .portfolio-item .item-wrap img {
-  vertical-align: bottom;
+  /* vertical-align: bottom; */
 }
 .portfolio-item .portfolio-item-meta {
   padding: 18px;

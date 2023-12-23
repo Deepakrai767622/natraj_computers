@@ -6,15 +6,15 @@ class Header extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const project = this.props.data.project;
-    const github = this.props.data.github;
+    // const project = this.props.data.project;
+    // const github = this.props.data.github;
     const name = this.props.data.name;
     const description = this.props.data.description;
     const description_1 = this.props.data.description_1;
 
     return (
       <header id="home">
-        <ParticlesBg type="circle" bg={true} />
+        <ParticlesBg type="lines" bg={true} />
 
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
@@ -39,19 +39,19 @@ class Header extends Component {
 
             <li>
               <a className="smoothscroll" href="#resume">
-                Resume
+                Work-Area
               </a>
             </li>
 
             <li>
               <a className="smoothscroll" href="#portfolio">
-                Works
+                Portfolio
               </a>
             </li>
 
             <li>
               <a className="smoothscroll" href="#contact">
-                Contact
+                Contact us
               </a>
             </li>
           </ul>
@@ -69,10 +69,10 @@ class Header extends Component {
             <hr />
             <Fade bottom duration={2000}>
               <ul className="social">
-                <a href={project} className="button btn project-btn">
+                <a href="#about" className="button btn project-btn">
                   <i className="fa fa-book"></i>About us
                 </a>
-                <a href={github} className="button btn github-btn">
+                <a href="#contact" className="button btn github-btn">
                   <i className="fa fa-github"></i>Contact us
                 </a>
               </ul>

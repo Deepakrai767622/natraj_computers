@@ -5,9 +5,9 @@
     "description_1": "Don't Let Computer Problems Slow You Down: Trust Our Repair Experts",
     "image": "pcphoto.bmp",
     "bio": " Natraj Computers is one of the leading computer, cctv sales and repair companies in the Lucknow, Utter pradesh providing services for individuals and businesses. No matter what kind of a PC you have, we can fix it.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "Our Bellevue store is now open for business. You may reach us by phone. No appointment required. Walk-ins welcome.",
     "email": "Deepakrai767622@gmail.com",
-    "phone": "9984576565",
+    "phone": "9807303819",
     "github": "https://github.com/Deepakrai767622",
     "project": "https://google.com/",
     "address": {
@@ -21,22 +21,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://facebook.com",
+        "url": "https://facebook.com/natrajcomputerscom",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "http://twitter.com/deepakrai767622",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/",
+        "url": "https://www.linkedin.com/deepakrai767622",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/",
+        "url": "http://instagram.com/natrajcomputers_com",
         "className": "fa fa-instagram"
       },
       {
@@ -70,7 +70,7 @@
         "description": "We believe that human-centered design are revolutionizing brand experiences."
       },
       {
-        "company": "Archesoftronics",
+        "company": "Reduce cost of new office installation",
         "title": "Reduce capital and operating costs, while modernizing IT.",
         "years": "March 2017 - February 2018",
         "description": "."
@@ -110,21 +110,39 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "pic1.bmp",
+        "title": "Custom Desktop",
+        "category": "Whether you’re looking for a gaming powerhouse or a flexible family computer that can be upgraded for years to come, our experts can help you build exactly what you need.",
+        "image": "two.svg",
         "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "pic2.bmp",
+        "title": "Data Recovery",
+        "category": "Greater Seattle’s experts at recovering data from failed hard drives and memory cards, and migration of data to new storage solutions.",
+        "image": "one.svg",
         "url": "http://www.timbakerdev.com"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "pic4.bmp",
+        "title": "Liquid Damage",
+        "category": "Spills happen. Repairing liquid-damaged devices is one of our specialties. If you suspect any liquid exposure to your machine, don’t delay, shut down, unplug, and reach out immediately to schedule a diagnostic review.",
+        "image": "five.svg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Windows & PC Repairs",
+        "category": "Bring in your laptop or desktop computer, and our expert technicians will offer quick and high-quality services to get your device back up and running.",
+        "image": "six.svg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "In-Home Tech Support Services",
+        "category": "Let Natraj Computers come to you! We can assist you with in-home diagnostic services and repairs as well as setting up your personal Wi-Fi network, printers/scanners, and configuration of your media center for ease of use. If your computer issue is a little more complicated and needs to be fixed up back at our shop, we offer pickup and delivery services as well.",
+        "image": "four.svg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Business Tech Support Services",
+        "category": "Not every business needs a permanent IT department, but that doesn’t mean you don’t deserve the benefits of quality on-site service. From server troubles to misbehaving workstations, our on-site IT support service in  Seattle can help companies of every size manage and maintain their technology. We also offer ongoing support plans, which can be far less expensive than hiring full-time IT staff.",
+        "image": "eight.svg",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       }
     ]
